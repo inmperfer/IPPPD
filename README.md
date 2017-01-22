@@ -1,6 +1,4 @@
-# Introducción a la Programación en Python y a los Paradigmas para Datos
-
-## Contenido de la asignatura
+## Contenido
 
 1. Introducción a Python
 
